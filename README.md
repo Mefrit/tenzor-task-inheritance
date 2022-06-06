@@ -16,6 +16,8 @@ export class Person {
     readonly _secondName: string;
     readonly _age: number;
 }
+123
+
 
 export class Student extends Person {
     readonly _phone: string;
